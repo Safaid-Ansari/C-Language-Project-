@@ -1,0 +1,3 @@
+Name  = Safaid_Ansari
+Age  = 19
+Salary  = 30000.00
